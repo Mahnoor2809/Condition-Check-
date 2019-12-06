@@ -1,5 +1,6 @@
 
-\* lst = [2, 33, 222, 14, 25]
+\*
+  lst = [2, 33, 222, 14, 25]
   print(lst[:-1]) 
   print(lst[:4]) 
   names =['Amir', 'Bear', 'Charlton', 'Daman'] 
